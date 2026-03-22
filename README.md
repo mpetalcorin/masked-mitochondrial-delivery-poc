@@ -175,6 +175,10 @@ This repository may be useful for:
 ## Suggested citation
 Petalcorin, M.I.R. (2026). Masked Mitochondrial Delivery as a Computational Proof of Concept for Enhanced Cellular Bioenergetic Rescue and Survival Benefit. https://github.com/mpetalcorin/masked-mitochondrial-delivery-poc
 
+## References
+- Chen, E. (2026, March 19). Masked mitochondria slip into cells to treat disease in mice. Nature. https://doi.org/10.1038/d41586-026-00869-2
+- Du, S., et al. (2026). Transplantation of encapsulated mitochondria alleviates dysfunction in mitochondrial and Parkinson’s disease models. Cell. Advance online publication. https://doi.org/10.1016/j.cell.2026.02.023
+ 
 If you adapt this repository for academic or educational use, cite it as a computational proof of concept for masked mitochondrial delivery and clearly state that the datasets are synthetic.
 
 ## License
