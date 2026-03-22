@@ -174,6 +174,7 @@ This repository may be useful for:
 
 ## Suggested citation
 Petalcorin, M.I.R. (2026). Masked Mitochondrial Delivery as a Computational Proof of Concept for Enhanced Cellular Bioenergetic Rescue and Survival Benefit. https://github.com/mpetalcorin/masked-mitochondrial-delivery-poc
+
 If you adapt this repository for academic or educational use, cite it as a computational proof of concept for masked mitochondrial delivery and clearly state that the datasets are synthetic.
 
 ## License
