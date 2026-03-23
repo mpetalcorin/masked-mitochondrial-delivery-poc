@@ -145,12 +145,6 @@ pip install numpy pandas scipy scikit-learn matplotlib jupyter
 jupyter notebook masked_mito_transplantation_poc.ipynb
 ```
 
-Or execute headlessly:
-
-```bash
-jupyter nbconvert --to notebook --execute masked_mito_transplantation_poc.ipynb --output masked_mito_transplantation_poc_executed.ipynb
-```
-
 ## Interpretation
 
 This repository is a **computational proof of concept**, not a real preclinical efficacy study. The datasets are synthetic and designed to be biologically plausible, literature-aligned, and analytically useful. Statistical significance and model performance reflect the properties of the simulated data, not direct empirical validation.
